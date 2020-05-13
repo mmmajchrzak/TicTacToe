@@ -1,1 +1,1 @@
-Simple Tictactoe game but written in JavaScript. Part of my excersices.
+Simple Tictactoe game but written in JavaScript, part of my excersices.
